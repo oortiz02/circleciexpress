@@ -1,15 +1,7 @@
 version: 2.1
-<<<<<<< HEAD
 orbs:
-=======
-orbs: 
->>>>>>> dfa2a74f07b1c258bc1d4fd6e08c18b54f48b17e
   node: circleci/node@3.0.0
 workflows:
   node-tests:
     jobs:
-<<<<<<< HEAD
       - node/test
-=======
-      - node/test
->>>>>>> dfa2a74f07b1c258bc1d4fd6e08c18b54f48b17e
